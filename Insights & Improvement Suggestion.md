@@ -5,10 +5,10 @@
 * ### STATE: most of the orders & total sales/amount are from Uttar Pradesh, Maharastra, Karnataka respectively.
 * ### MARRIED: The highest buyers are Married (Women) and they have high purchasing power. 
 * ### OCCUPATION: The buyers are working in IT Sector, Healthcare and Aviation Sector.
-* ### PRODUCT_CATEGORY: Our most of the sold products are from Food, Clothing, Footwear Category.
+* ### PRODUCT_CATEGORY: Our most of the sold products are from Food, Clothing and Footwear Category.
 
 # Suggestion For Improvement
 
-* ### Busiest Hour: 12-2:PM,6-8:PM and 4-6:PM is the time we are getting most of the orders so we should make Pizza Combos and Coupons For this Particular Time to Increase our Orders And Generate More Revenues.
-* ### Category: Classic contributes to maximum sales and total orders, if we want to add more Menu we should consider this Classic Category.
-* ### Don't Go Out Of Stock: Category Classic And Size Large contributes to maximum  sales and total orders so we should make sure that we Don't Go Out Of Stock on this.
+* ### ADVERTISEMENT: For advertisement we should target Females and age group between 26-35 yrs. 
+* ### PRODUCT: If we are adding more product consider these Product category Food, Clothing and Footwear. 
+* ### STATE: Give more attention on these state Uttar Pradesh, Maharastra, Karnataka beacause we are getting more orders and generating more revenues. 
